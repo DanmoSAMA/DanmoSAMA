@@ -1,4 +1,4 @@
-<img src="https://z3.ax1x.com/2021/11/26/oVtIaD.png" style="zoom:80%;" />
+<img src="https://z3.ax1x.com/2021/11/26/oVdDyR.png" style="zoom:70%;" />
 
 👋 Hi, nice to meet you! I'm Danmo Cui, a student learning in HUST. Now I'm devoted to learning something about FE development. Some detailed information is listed in the following.
 
