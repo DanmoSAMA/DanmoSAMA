@@ -1,20 +1,23 @@
-### Hi there 👋
+<img src="https://z3.ax1x.com/2021/11/26/oVtIaD.png" style="zoom:80%;" />
+
+👋 Hi, nice to meet you! I'm Danmo Cui, a student learning in HUST. Now I'm devoted to learning something about FE development. Some detailed information is listed in the following.
+
+## ⌨️ My Github
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanmoSAMA)](https://github.com/anuraghazra/github-readme-stats)
 
+## 📖 Basic Info
 
+* School: HUST(Wuhan, Hubei)
+* Major: CS
+* Org: Unique Studio
+* Language: Chinese, English, a little bit Japanese
+* Hobbies: Harmonica, ACG music, Animation, Bicycle, Japanese
+* Skills: [Here](https://www.danmoits.com/2021/11/26/53.Roadmap)
 
-<!--
-**DanmoSAMA/DanmoSAMA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📱 Get in touch
 
-Here are some ideas to get you started:
+* Blog: https://www.danmoits.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* QQ: 772523546
+* email: danmoits@qq.com
